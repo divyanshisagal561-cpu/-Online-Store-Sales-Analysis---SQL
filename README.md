@@ -133,7 +133,9 @@ This project answers various real-world business questions, including:
 Online-Store-Sales-Analysis
 │
 ├── store.sql
+├── screenshots.png
 ├── README.md
+
 ```
 
 ---
